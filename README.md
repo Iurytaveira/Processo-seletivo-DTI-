@@ -13,6 +13,8 @@ git clone https://github.com/iurytaveira/Processo-seletivo-DTI-.git
 ### 2. Instale as dependências
 Backend (Node.js + Express):
 
+cd ProjetoProfessor
+
 cd backend
 
 npm install
