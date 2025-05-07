@@ -63,6 +63,16 @@ FormCadastroAluno, ListaAlunos, MediasTurma, etc.
 4. Node.js
 5. Express
 6. JavaScript
+ 
+## 🖼️ Imagens 
+![image](https://github.com/user-attachments/assets/7a00ced8-c0d4-40ec-8a57-70d6392905d9)
+
+![image](https://github.com/user-attachments/assets/fd83ccb1-47f2-4fbd-9be4-f926ef473bfc)
+
+![image](https://github.com/user-attachments/assets/84ff90bc-7f51-4056-8981-eab8b9419935)
+
+![image](https://github.com/user-attachments/assets/d8f6e37b-05f4-4a7b-845a-c7504b83ad38)
+
 
 ## 😄 Autor 
 Desenvolvido por Iury Silva Taveira
